@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void imprimir(){
-    printf("Esta impresion la hizo master");
+    printf("Otra impresion");//Uy! me olvide de agregar esta linea
 }
 
 int main(){
