@@ -8,5 +8,6 @@ void imprimir(){
 int main(){
     printf("Hola mundo");
     printf("Hola desde master");
+    imprimir();
     return 0;
 }
